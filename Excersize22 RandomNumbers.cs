@@ -5,7 +5,7 @@ namespace Solution_22
     class Program
     {
         static void Main(string[] args)
-        {
+        {//comment
             // Excersize 22
             // * 
             // * create a program that generates a random number between 1 and 10 
